@@ -13,8 +13,8 @@ st.title("🛡️ T212 Strategie-Zentrale")
 st.markdown("---")
 
 # Basis-Konfiguration Ihrer 20k-Strategie
-tages_zins_netto = 1.21    
-schaltpunkt = 500.00       
+tages_zins_netto = 6.50    
+schaltpunkt = 1875.00       
 
 # ---------------------------------------------------------
 # PERSISTENTER LOCAL-STORAGE VIA JAVASCRIPT
